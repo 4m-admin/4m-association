@@ -10,7 +10,7 @@ title: WCMNM2022
 
 	Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM)
 	
-<img src="/ 4m-association/content/images/leuven.png" width="100%">
+        <img src="/ 4m-association/content/images/leuven.png" width="100%">
 	
 
 	##  Congress Chair
@@ -36,7 +36,7 @@ title: WCMNM2022
 	##  Venue
 	
 
-Leuven
+        Leuven
 	
 
 	##  Important Dates
@@ -54,15 +54,15 @@ Leuven
 	 <li>Miniaturization of machines and equipment; positioning, motion generation, sensors systems, and control</li>
 	 <li>Novel product designs, micro-assembly technologies and micro-handling</li>
 	 <li>Surface engineering and interface nanotechnology</li>
-   <li>Process modelling and simulation</li>
+         <li>Process modelling and simulation</li>
 	 <li>Processing and characterization of smart materials, energy materials, metamaterials and nanomaterials</li>
 	 <li>Micro and nano additive, subtractive, joining, and hybrid manufacturing technologies</li>
 	 <li>Micro and desktop factory concepts, systems, components and module</li>
 	 <li>On-line monitoring and inspection systems/method</li>
 	 <li>Standardization in micro manufacturing and micro factorie</li>
-<li>Applications of micro and nano technologies</li>
-<li>Emerging micro manufacturing methods and equipment, including those that bridge the nano- and macro- worlds</li>
-<li>Biomanufacturing and biomedical devices</li>
+         <li>Applications of micro and nano technologies</li>
+         <li>Emerging micro manufacturing methods and equipment, including those that bridge the nano- and macro- worlds</li>
+         <li>Biomanufacturing and biomedical devices</li>
 	</ul>
 	 
 	##  Contact Us
