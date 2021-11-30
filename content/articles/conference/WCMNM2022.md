@@ -5,53 +5,54 @@ title: WCMNM2022
 
 	
 
-	## World Congress on Micro and Nano Manufacturing
+## World Congress on Micro and Nano Manufacturing
 	
 
-	Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM)
+Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM)
 	
-        ![4m alt text](/4m-association/content/images/leuven.jpg) 
-	
-
-	##  Congress Chair
+![Alt text](/4m-association/content/images/leuven.jpg) 
 	
 
-	Sylvie Castagne, KU Leuven, Belgium
+##  Congress Chair
 	
 
-	##  Congress Co-Chairs
+Sylvie Castagne, KU Leuven, Belgium
 	
 
-	Stefan Dimov, University of Birmingham, UK [4M]
+## Congress Co-Chairs 
+
+	
+
+Stefan Dimov, University of Birmingham, UK [4M]
   
-	Lawrence Kulinsky, University of California, Irvine, USA [I2M2]
+Lawrence Kulinsky, University of California, Irvine, USA [I2M2]
   
-	Kuniaki Dohda, Northwestern University, USA [IFMM]
-  
-	Dominiek Reynaerts, KU Leuven, Belgium
+Kuniaki Dohda, Northwestern University, USA [IFMM]
+ 
+Dominiek Reynaerts, KU Leuven, Belgium
 
 
 	
 
-	##  Venue
+##  Venue
 	
 
-        Leuven
+Leuven
 	
 
-	##  Important Dates
+##  Important Dates
 	
 
-	The main congress programme takes place from the 19th to the 22th of September 2022
+The main congress programme takes place from the <strong>19th to the 22d of September 2022</strong>
 	
 
 
-	##  Congress Theme
+##  Congress Theme
 	
 
-	<ul>
-	 <li>Micro fabrication technologies, process chains and process characterisatio</li>
-	 <li>Miniaturization of machines and equipment; positioning, motion generation, sensors systems, and control</li>
+<ul>
+<li>Micro fabrication technologies, process chains and process characterisatio</li>
+<li>Miniaturization of machines and equipment; positioning, motion generation, sensors systems, and control</li>
 	 <li>Novel product designs, micro-assembly technologies and micro-handling</li>
 	 <li>Surface engineering and interface nanotechnology</li>
          <li>Process modelling and simulation</li>
@@ -65,18 +66,18 @@ title: WCMNM2022
          <li>Biomanufacturing and biomedical devices</li>
 	</ul>
 	 
-	##  Contact Us
+##  Contact Us
 	
 
 	
 
-	For further information on:
+For further information on:
 	
 
-	- sponsorship
-	- registration
-	- review process
+- sponsorship
+- registration
+- review process
 	
 
 	 
-	Contact: <a href="mailto:a.svetozarova@bham.ac.uk">Ms Adriana Svetozarova.</strong></a>
+Contact: <a href="mailto:a.svetozarova@bham.ac.uk">Ms Adriana Svetozarova.</strong></a>
