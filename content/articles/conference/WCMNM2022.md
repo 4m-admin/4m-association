@@ -5,12 +5,12 @@ title: WCMNM2022
 
 	
 
-	<h2>World Congress on Micro and Nano Manufacturing</h2>
+	## World Congress on Micro and Nano Manufacturing
 	
 
 	Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM)
 	
-        <img src="/ 4m-association/content/images/leuven.jpg" width="100%">
+        ![4m alt text](/4m-association/content/images/leuven.jpg) 
 	
 
 	##  Congress Chair
